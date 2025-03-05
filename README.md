@@ -72,7 +72,20 @@ The video explains human resource management (HRM)... [00:51]. It involves... hu
 - `format.py`: Creates H5P and Markdown outputs.
 - `.env`: Stores your API key (don’t share this!).
 - `requirements.txt`: Lists dependencies.
-
+```
+H5P-Interactive-Video-Generator-v2/
+├── .env                # Your Groq API key (not tracked by git)
+├── .gitignore          # Ignores .env and temp files
+├── app.py              # Main Streamlit app
+├── core.py             # Groq API and prompt database
+├── addon.py            # Generates interactions from summaries
+├── format.py           # Creates H5P and Markdown outputs
+├── requirements.txt    # Python dependencies (Streamlit, Groq, etc.)
+├── prompt_frameworks.db  # SQLite DB for prompts (auto-generated)
+├── groq_response.txt   # Debug output from Groq API
+├── interactive_video.h5p  # Generated H5P file
+└── interactive_video.md  # Generated Markdown file
+```
 ## Troubleshooting
 - **No API Key?**: Check `.env` or enter it manually.
 - **Errors?**: Ensure all files are in place and dependencies installed.
@@ -81,5 +94,7 @@ The video explains human resource management (HRM)... [00:51]. It involves... hu
 ## Contributing
 New to Python? Fork this, tweak it, and send a pull request! Ideas welcome.
 
+## Thanks
+Powered by Groq AI and Streamlit—big props to their teams!
 ## Thanks
 Powered by Groq AI and Streamlit—big props to their teams!
