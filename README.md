@@ -2,14 +2,17 @@
 
 Welcome to **H5P Interactive Video Generator v2**! This Streamlit app uses Groq AI to turn YouTube video summaries into interactive H5P lessons for Moodle. Drop in a summary, pick a learning outcome (e.g., comprehension, application), choose a model, and bam—get questions and activities in H5P and Markdown format. Perfect for educators or anyone wanting to spice up video content!
 
-## What’s New in v2
+## What’s New in v2 - Python_Streamlit Scripts
 - **Manual Summaries**: You provide the video summary—no more guessing from URLs.
 - **Groq Models**: Pick from a dropdown of production (e.g., `llama3-70b-8192`) and preview models (e.g., `qwen-2.5-32b`).
 - **.env Support**: Store your Groq API key securely.
 - **Learning Outcomes**: Generate 5 MCQs (comprehension), 3 fill-ins (application), and more with a single click.
 - **Streamlit 1.38.0**: Latest version for a smooth ride.
 
-## Quickstart for Newbies
+  ## What’s New in v2 - windows release
+  - **v1.0.0-beta**: [Download here]([https://www.python.org/downloads/](https://github.com/dgcruzing/H5P-Interactive-Video-Generator-v2/releases/tag/v1.0.0-beta).
+
+## Python Quickstart for Newbies
 
 ### Prerequisites
 - **Python 3.9+**: [Download here](https://www.python.org/downloads/).
