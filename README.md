@@ -10,7 +10,7 @@ Welcome to **H5P Interactive Video Generator v2**! This Streamlit app uses Groq 
 - **Streamlit 1.38.0**: Latest version for a smooth ride.
 
   ## What’s New in v2 - windows release
-  - **v1.0.0-beta**: [Download here]([https://www.python.org/downloads/](https://github.com/dgcruzing/H5P-Interactive-Video-Generator-v2/releases/tag/v1.0.0-beta).
+  - **v1.0.0-beta**: [Download here](https://github.com/dgcruzing/H5P-Interactive-Video-Generator-v2/releases/tag/v1.0.0-beta).
 
 ## Python Quickstart for Newbies
 
