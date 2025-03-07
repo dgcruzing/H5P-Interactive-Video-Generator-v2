@@ -1,0 +1,40 @@
+[
+  {
+    "time": "14:30",
+    "type": "text",
+    "text": "Decode Behavior to Supercharge Your Team’s Success with DiSC"
+  },
+  {
+    "time": "15:00",
+    "type": "question",
+    "question": "How can role-playing scenarios, case studies, and self-reflection exercises be used to develop the Dominance style in project managers?"
+  },
+  {
+    "time": "16:00",
+    "type": "text",
+    "text": "Exploring the Influence style: Motivating others, building relationships, and communicating a compelling vision"
+  },
+  {
+    "time": "16:30",
+    "type": "question",
+    "question": "What are some effective ways to help individuals with an Influence style improve their attention to detail and ground their ideas in reality?"
+  },
+  {
+    "time": "17:30",
+    "text": "Steadiness style: Mediating conflicts, providing a calming presence, and ensuring everyone feels heard"
+  },
+  {
+    "time": "18:00",
+    "type": "question",
+    "question": "How can conflict resolution simulations, team facilitation exercises, and time management workshops help project managers with a Steadiness style?"
+  },
+  {
+    "time": "19:00",
+    "text": "Conscientiousness style: Identifying potential risks, ensuring accuracy, and delivering high-quality work"
+  },
+  {
+    "time": "19:30",
+    "type": "question",
+    "question": "What strategies can be used to help individuals with a Conscientiousness style see the bigger picture and avoid getting bogged down in details?"
+  }
+]
