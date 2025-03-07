@@ -1,0 +1,5 @@
+# requirements.txt
+# requirements.txt
+streamlit==1.38.0
+groq==0.6.0
+python-dotenv==1.0.1
