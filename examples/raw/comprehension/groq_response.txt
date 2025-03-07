@@ -1,0 +1,47 @@
+[
+    {
+        "time": "00:30",
+        "question": "How does the DiSC assessment help in understanding individual preferences and work styles?",
+        "options": [
+            "By putting people in boxes",
+            "By understanding comfort zones and potential areas for growth and collaboration"
+        ],
+        "correct": "By understanding comfort zones and potential areas for growth and collaboration"
+    },
+    {
+        "time": "01:00",
+        "question": "Which DiSC style is associated with risk-taking, boldness, and decisiveness?",
+        "options": [
+            "Dominance (D)",
+            "Influence (I)"
+        ],
+        "correct": "Dominance (D)"
+    },
+    {
+        "time": "01:30",
+        "question": "What can a person high in the 'D' style do to work more effectively with others?",
+        "options": [
+            "Steamroll others",
+            "Be aware of steamrolling others"
+        ],
+        "correct": "Be aware of steamrolling others"
+    },
+    {
+        "time": "02:00",
+        "question": "How can DiSC styles help in conflict resolution?",
+        "options": [
+            "By encouraging an 'S' style individual to act as a mediator",
+            "By understanding different tendencies in approaching conflict"
+        ],
+        "correct": "By understanding different tendencies in approaching conflict"
+    },
+    {
+        "time": "02:30",
+        "question": "What is a key aspect of tailoring communication methods according to DiSC styles?",
+        "options": [
+            "Recognizing and rewarding contributions in ways that resonate with each style",
+            "Using SMART goals for every team member"
+        ],
+        "correct": "Recognizing and rewarding contributions in ways that resonate with each style"
+    }
+]
