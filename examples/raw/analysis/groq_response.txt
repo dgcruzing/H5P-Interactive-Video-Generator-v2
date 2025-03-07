@@ -1,0 +1,46 @@
+[
+    {
+        "time": "00:30",
+        "question": "Which of the following best describes the purpose of the DiSC assessment?",
+        "options": [
+            "To put people in boxes",
+            "To understand individual preferences and potential areas for growth and collaboration",
+            "To evaluate a person's weaknesses",
+            "To compare individuals against each other"
+        ],
+        "correct": "To understand individual preferences and potential areas for growth and collaboration"
+    },
+    {
+        "time": "01:00",
+        "question": "What role might an 'S' style individual take during conflict resolution?",
+        "options": [
+            "Address it head-on",
+            "Restore stability",
+            "Avoid confrontation",
+            "Push for quick decisions"
+        ],
+        "correct": "Restore stability"
+    },
+    {
+        "time": "01:30",
+        "question": "How can DiSC insights be used when assigning responsibilities?",
+        "options": [
+            "Only assign tasks that align with team members' strengths",
+            "Assign tasks that align with team members' strengths and preferences, and consider tasks that stretch individuals to develop new skills",
+            "Assign tasks randomly",
+            "Assign tasks based on a person's DiSC style score"
+        ],
+        "correct": "Assign tasks that align with team members' strengths and preferences, and consider tasks that stretch individuals to develop new skills"
+    },
+    {
+        "time": "02:00",
+        "question": "What is one way to tailor communication methods to suit different DiSC styles?",
+        "options": [
+            "Use SMART goals for every communication",
+            "Recognize and reward contributions in ways that resonate with each style",
+            "Speak faster to 'D' style individuals",
+            "Use technical jargon with 'C' style individuals"
+        ],
+        "correct": "Recognize and reward contributions in ways that resonate with each style"
+    }
+]
