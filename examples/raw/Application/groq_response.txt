@@ -1,0 +1,5 @@
+[
+{"time": "14:30", "text": "Dominance (D) individuals are often described as *risk-taking*, bold, and decisive. They tend to be fast-paced and action-oriented.", "answer": "risk-taking"},
+{"time": "15:45", "text": "People with an Influence (I) style are typically expressive, enthusiastic, and visionary. They are collaborative and enjoy generating new ideas. However, they may sometimes *lack attention to detail* or fail to ground their ideas in reality.", "answer": "lack attention to detail"},
+{"time": "18:10", "text": "Steadiness (S) individuals are often loyal, stable, and collaborative. They prioritize creating a harmonious and supportive environment. However, they may sometimes *avoid conflict* or struggle to assert their needs.", "answer": "avoid conflict"}
+]
