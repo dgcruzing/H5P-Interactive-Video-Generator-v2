@@ -99,5 +99,4 @@ New to Python? Fork this, tweak it, and send a pull request! Ideas welcome.
 
 ## Thanks
 Powered by Groq AI and Streamlit—big props to their teams!
-## Thanks
-Powered by Groq AI and Streamlit—big props to their teams!
+
