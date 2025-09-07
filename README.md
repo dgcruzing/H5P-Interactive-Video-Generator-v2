@@ -7,7 +7,7 @@ Welcome to **H5P Interactive Video Generator v2**! This Streamlit app uses Groq 
 - **Groq Models**: Pick from a dropdown of production (e.g., `llama3-70b-8192`) and preview models (e.g., `qwen-2.5-32b`).
 - **.env Support**: Store your Groq API key securely.
 - **Learning Outcomes**: Generate 5 MCQs (comprehension), 3 fill-ins (application), and more with a single click.
-- **Streamlit 1.38.0**: Latest version for a smooth ride.
+ - **Streamlit 1.49.1**: Latest version for a smooth ride.
 
   ## What’s New in v2 - windows release
   - **v1.0.0-beta**: [Download here](https://github.com/dgcruzing/H5P-Interactive-Video-Generator-v2/releases/tag/v1.0.0-beta).
